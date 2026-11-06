@@ -1,0 +1,122 @@
+[
+ {
+  "id": "st_sunny_day",
+  "name": "Sunny Day",
+  "file": "Sunny_Day.png",
+  "light": {
+   "az": 40,
+   "el": 55,
+   "col": "#fff6d0",
+   "energy": 1.3,
+   "ambient": 1.0
+  },
+  "fog": "#e8eef2",
+  "fog_density": 0.01,
+  "views": [
+   [
+    49,
+    40
+   ],
+   [
+    199,
+    10
+   ]
+  ]
+ },
+ {
+  "id": "st_sunset",
+  "name": "Sunset",
+  "file": "Sunset.png",
+  "light": {
+   "az": 0,
+   "el": 3,
+   "col": "#ffb050",
+   "energy": 0.35,
+   "ambient": 1.4
+  },
+  "fog": "#ffb060",
+  "fog_density": 0.006,
+  "views": [
+   [
+    9,
+    8
+   ],
+   [
+    159,
+    10
+   ]
+  ]
+ },
+ {
+  "id": "st_golden",
+  "name": "Golden Hour",
+  "file": "Golden_Hour.png",
+  "light": {
+   "az": 280,
+   "el": 10,
+   "col": "#ffcc70",
+   "energy": 0.9,
+   "ambient": 1.0
+  },
+  "fog": "#ffe4b0",
+  "fog_density": 0.0108,
+  "views": [
+   [
+    289,
+    8
+   ],
+   [
+    439,
+    10
+   ]
+  ]
+ },
+ {
+  "id": "st_moon_night",
+  "name": "Moonlit Night",
+  "file": "Moonlit_Night.png",
+  "light": {
+   "az": 150,
+   "el": 35,
+   "col": "#c8d4ff",
+   "energy": 0.35,
+   "ambient": 1.4
+  },
+  "fog": "#26304e",
+  "fog_density": 0.006,
+  "views": [
+   [
+    159,
+    25
+   ],
+   [
+    309,
+    10
+   ]
+  ]
+ },
+ {
+  "id": "st_aurora",
+  "name": "Aurora",
+  "file": "Aurora.png",
+  "light": {
+   "az": 30,
+   "el": 60,
+   "col": "#091322",
+   "energy": 0.15,
+   "ambient": 1.4
+  },
+  "fog": "#142438",
+  "fog_density": 0.006,
+  "views": [
+   [
+    9,
+    8
+   ],
+   [
+    159,
+    10
+   ]
+  ]
+ }
+]
